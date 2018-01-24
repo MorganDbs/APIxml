@@ -1,0 +1,2186 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+
+<previsions>
+    <request_state>200</request_state>
+    <source>internal:GFS:1</source>
+    <message>OK</message>
+    <request_time>0.0056049823760986</request_time>
+    <request_key>4deb4148245633f6e80aedd723f016d3</request_key>
+    <model_run>01</model_run>
+    <echeance hour="3" timestamp="2018-01-24 04:00:00 UTC">
+        <temperature>
+            <level val="2m">281.2</level>
+            <level val="sol">282.1</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102510</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">92.4</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">22</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">40.7</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">208</level>
+        </vent_direction>
+        <iso_zero>2368</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">10</level>
+            <level val="moyenne">0</level>
+            <level val="basse">100</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="6" timestamp="2018-01-24 07:00:00 UTC">
+        <temperature>
+            <level val="2m">280.8</level>
+            <level val="sol">281.9</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102410</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">-0.3</pluie_convective>
+        <humidite>
+            <level val="2m">93.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">20.8</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">38.6</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">202</level>
+        </vent_direction>
+        <iso_zero>2268</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">27</level>
+            <level val="moyenne">0</level>
+            <level val="basse">99</level>
+            <level val="totale">99</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="9" timestamp="2018-01-24 10:00:00 UTC">
+        <temperature>
+            <level val="2m">281.1</level>
+            <level val="sol">282.1</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102350</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">92.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">21.6</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">39.1</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">204</level>
+        </vent_direction>
+        <iso_zero>2884</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">78</level>
+            <level val="moyenne">0</level>
+            <level val="basse">98</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="12" timestamp="2018-01-24 13:00:00 UTC">
+        <temperature>
+            <level val="2m">283.8</level>
+            <level val="sol">284.4</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102170</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">82.6</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">23</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">39.6</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">203</level>
+        </vent_direction>
+        <iso_zero>2732</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">65</level>
+            <level val="moyenne">0</level>
+            <level val="basse">82</level>
+            <level val="totale">91</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="15" timestamp="2018-01-24 16:00:00 UTC">
+        <temperature>
+            <level val="2m">283.5</level>
+            <level val="sol">284.9</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101950</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">78.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">24.3</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">47.9</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">201</level>
+        </vent_direction>
+        <iso_zero>2860</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">67</level>
+            <level val="moyenne">0</level>
+            <level val="basse">0</level>
+            <level val="totale">67</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="18" timestamp="2018-01-24 19:00:00 UTC">
+        <temperature>
+            <level val="2m">281.8</level>
+            <level val="sol">283.4</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101840</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">83.4</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">24.5</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">53.3</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">210</level>
+        </vent_direction>
+        <iso_zero>2796</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">82</level>
+            <level val="moyenne">32</level>
+            <level val="basse">0</level>
+            <level val="totale">83</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="21" timestamp="2018-01-24 22:00:00 UTC">
+        <temperature>
+            <level val="2m">282</level>
+            <level val="sol">283.7</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101780</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">77.5</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">26.8</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">58.1</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">206</level>
+        </vent_direction>
+        <iso_zero>2495</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">81</level>
+            <level val="moyenne">96</level>
+            <level val="basse">0</level>
+            <level val="totale">99</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="24" timestamp="2018-01-25 01:00:00 UTC">
+        <temperature>
+            <level val="2m">281.7</level>
+            <level val="sol">283.3</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101770</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">80.9</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">27.1</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">59.5</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">209</level>
+        </vent_direction>
+        <iso_zero>2201</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">86</level>
+            <level val="moyenne">98</level>
+            <level val="basse">0</level>
+            <level val="totale">99</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="27" timestamp="2018-01-25 04:00:00 UTC">
+        <temperature>
+            <level val="2m">281.2</level>
+            <level val="sol">282.7</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101680</level>
+        </pression>
+        <pluie interval="3h">0.4</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">83.3</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">26.8</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">55.6</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">215</level>
+        </vent_direction>
+        <iso_zero>2228</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">95</level>
+            <level val="moyenne">53</level>
+            <level val="basse">33</level>
+            <level val="totale">99</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="30" timestamp="2018-01-25 07:00:00 UTC">
+        <temperature>
+            <level val="2m">281.1</level>
+            <level val="sol">282.6</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101580</level>
+        </pression>
+        <pluie interval="3h">4.8</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">86.7</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">23.1</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">50.5</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">211</level>
+        </vent_direction>
+        <iso_zero>2120</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">97</level>
+            <level val="moyenne">76</level>
+            <level val="basse">67</level>
+            <level val="totale">99</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="33" timestamp="2018-01-25 10:00:00 UTC">
+        <temperature>
+            <level val="2m">280.7</level>
+            <level val="sol">282.1</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101470</level>
+        </pression>
+        <pluie interval="3h">1.4</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">87.2</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">19.8</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">40.4</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">208</level>
+        </vent_direction>
+        <iso_zero>1947</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">92</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="36" timestamp="2018-01-25 13:00:00 UTC">
+        <temperature>
+            <level val="2m">282.4</level>
+            <level val="sol">283.8</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101340</level>
+        </pression>
+        <pluie interval="3h">0.2</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">82.3</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">21.4</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">41.5</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">214</level>
+        </vent_direction>
+        <iso_zero>1828</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">97</level>
+            <level val="moyenne">100</level>
+            <level val="basse">49</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="39" timestamp="2018-01-25 16:00:00 UTC">
+        <temperature>
+            <level val="2m">281.7</level>
+            <level val="sol">283.3</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101230</level>
+        </pression>
+        <pluie interval="3h">2.4</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">88.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">18.6</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">46.3</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">214</level>
+        </vent_direction>
+        <iso_zero>1724</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">89</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="42" timestamp="2018-01-25 19:00:00 UTC">
+        <temperature>
+            <level val="2m">279.4</level>
+            <level val="sol">280.7</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101270</level>
+        </pression>
+        <pluie interval="3h">5.4</pluie>
+        <pluie_convective interval="3h">0.1</pluie_convective>
+        <humidite>
+            <level val="2m">96.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">13.2</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">22.1</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">299</level>
+        </vent_direction>
+        <iso_zero>1573</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">92</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="45" timestamp="2018-01-25 22:00:00 UTC">
+        <temperature>
+            <level val="2m">278.2</level>
+            <level val="sol">279.4</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101380</level>
+        </pression>
+        <pluie interval="3h">6.8</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">95.9</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">8.9</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">16.4</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">306</level>
+        </vent_direction>
+        <iso_zero>1182</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">100</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="48" timestamp="2018-01-26 01:00:00 UTC">
+        <temperature>
+            <level val="2m">277.9</level>
+            <level val="sol">279.3</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101500</level>
+        </pression>
+        <pluie interval="3h">2.6</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">96.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">6.1</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">14.2</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">265</level>
+        </vent_direction>
+        <iso_zero>1104</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">91</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="51" timestamp="2018-01-26 04:00:00 UTC">
+        <temperature>
+            <level val="2m">277.4</level>
+            <level val="sol">278.9</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101600</level>
+        </pression>
+        <pluie interval="3h">0.5</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">97.4</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">6</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">9.8</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">249</level>
+        </vent_direction>
+        <iso_zero>1103</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">18</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="54" timestamp="2018-01-26 07:00:00 UTC">
+        <temperature>
+            <level val="2m">276.9</level>
+            <level val="sol">278.5</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101650</level>
+        </pression>
+        <pluie interval="3h">0.5</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">98.1</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">3.9</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">5.1</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">279</level>
+        </vent_direction>
+        <iso_zero>1119</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">14</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="57" timestamp="2018-01-26 10:00:00 UTC">
+        <temperature>
+            <level val="2m">277.4</level>
+            <level val="sol">278.5</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101810</level>
+        </pression>
+        <pluie interval="3h">0.2</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">95.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">5.9</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">9.2</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">280</level>
+        </vent_direction>
+        <iso_zero>1095</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">56</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="60" timestamp="2018-01-26 13:00:00 UTC">
+        <temperature>
+            <level val="2m">278.5</level>
+            <level val="sol">279.2</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101930</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">90.2</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">6.9</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">9.1</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">287</level>
+        </vent_direction>
+        <iso_zero>1088</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">75</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="63" timestamp="2018-01-26 16:00:00 UTC">
+        <temperature>
+            <level val="2m">278.7</level>
+            <level val="sol">279.7</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102040</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">88.6</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">7.2</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">12.4</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">299</level>
+        </vent_direction>
+        <iso_zero>1077</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">85</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="66" timestamp="2018-01-26 19:00:00 UTC">
+        <temperature>
+            <level val="2m">276.9</level>
+            <level val="sol">278.6</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102210</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">93.7</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">4.4</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">5.5</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">283</level>
+        </vent_direction>
+        <iso_zero>1053</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">44</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="69" timestamp="2018-01-26 22:00:00 UTC">
+        <temperature>
+            <level val="2m">276.1</level>
+            <level val="sol">277.8</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102420</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">93.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">4.4</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">5.8</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">293</level>
+        </vent_direction>
+        <iso_zero>1029</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">1</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="72" timestamp="2018-01-27 01:00:00 UTC">
+        <temperature>
+            <level val="2m">275.5</level>
+            <level val="sol">277.1</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102560</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">94.6</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">4.4</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">5.6</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">330</level>
+        </vent_direction>
+        <iso_zero>1004</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">100</level>
+            <level val="moyenne">100</level>
+            <level val="basse">1</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="75" timestamp="2018-01-27 04:00:00 UTC">
+        <temperature>
+            <level val="2m">274.3</level>
+            <level val="sol">276.2</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102660</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">96</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">4.8</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">6.2</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">357</level>
+        </vent_direction>
+        <iso_zero>960</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">28</level>
+            <level val="moyenne">5</level>
+            <level val="basse">2</level>
+            <level val="totale">29</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="78" timestamp="2018-01-27 07:00:00 UTC">
+        <temperature>
+            <level val="2m">273.8</level>
+            <level val="sol">275.5</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102830</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">96.9</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">5.1</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">6.4</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">348</level>
+        </vent_direction>
+        <iso_zero>972</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">20</level>
+            <level val="moyenne">2</level>
+            <level val="basse">2</level>
+            <level val="totale">22</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="81" timestamp="2018-01-27 10:00:00 UTC">
+        <temperature>
+            <level val="2m">275.6</level>
+            <level val="sol">276</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103090</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">93.7</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">5.8</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">9.5</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">364</level>
+        </vent_direction>
+        <iso_zero>1052</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">1</level>
+            <level val="moyenne">0</level>
+            <level val="basse">2</level>
+            <level val="totale">3</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="84" timestamp="2018-01-27 13:00:00 UTC">
+        <temperature>
+            <level val="2m">278.9</level>
+            <level val="sol">278.8</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103140</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">78.9</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">9.4</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">12.1</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">384</level>
+        </vent_direction>
+        <iso_zero>1212</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">1</level>
+            <level val="totale">2</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="87" timestamp="2018-01-27 16:00:00 UTC">
+        <temperature>
+            <level val="2m">278.9</level>
+            <level val="sol">279.4</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103210</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">80.5</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">7.8</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">11.6</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">388</level>
+        </vent_direction>
+        <iso_zero>1268</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">0</level>
+            <level val="totale">0</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="90" timestamp="2018-01-27 19:00:00 UTC">
+        <temperature>
+            <level val="2m">275.4</level>
+            <level val="sol">277.2</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103440</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">89.1</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">5.6</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">7.3</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">372</level>
+        </vent_direction>
+        <iso_zero>1346</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">0</level>
+            <level val="totale">0</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="93" timestamp="2018-01-27 22:00:00 UTC">
+        <temperature>
+            <level val="2m">274.4</level>
+            <level val="sol">276.5</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103560</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">89.4</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">1.7</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">2.3</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">364</level>
+        </vent_direction>
+        <iso_zero>1444</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">40</level>
+            <level val="moyenne">0</level>
+            <level val="basse">0</level>
+            <level val="totale">40</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="96" timestamp="2018-01-28 01:00:00 UTC">
+        <temperature>
+            <level val="2m">274.1</level>
+            <level val="sol">276</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103640</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">89.7</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">3.7</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">4.7</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">313</level>
+        </vent_direction>
+        <iso_zero>1510</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">33</level>
+            <level val="moyenne">0</level>
+            <level val="basse">0</level>
+            <level val="totale">33</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="99" timestamp="2018-01-28 04:00:00 UTC">
+        <temperature>
+            <level val="2m">273.8</level>
+            <level val="sol">275.4</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103670</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">90.1</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">3.7</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">4.5</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">220</level>
+        </vent_direction>
+        <iso_zero>1809</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">2</level>
+            <level val="moyenne">0</level>
+            <level val="basse">0</level>
+            <level val="totale">2</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="102" timestamp="2018-01-28 07:00:00 UTC">
+        <temperature>
+            <level val="2m">273.7</level>
+            <level val="sol">275</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103770</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">89.5</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">4.9</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">5.6</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">228</level>
+        </vent_direction>
+        <iso_zero>1869</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">20</level>
+            <level val="moyenne">0</level>
+            <level val="basse">0</level>
+            <level val="totale">20</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="105" timestamp="2018-01-28 10:00:00 UTC">
+        <temperature>
+            <level val="2m">276</level>
+            <level val="sol">276</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103890</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">79</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">7.1</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">10.8</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">226</level>
+        </vent_direction>
+        <iso_zero>1967</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">76</level>
+            <level val="moyenne">0</level>
+            <level val="basse">0</level>
+            <level val="totale">76</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="108" timestamp="2018-01-28 13:00:00 UTC">
+        <temperature>
+            <level val="2m">280</level>
+            <level val="sol">279.6</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103840</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">64.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">10.6</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">15.9</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">232</level>
+        </vent_direction>
+        <iso_zero>2137</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">78</level>
+            <level val="moyenne">0</level>
+            <level val="basse">5</level>
+            <level val="totale">79</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="111" timestamp="2018-01-28 16:00:00 UTC">
+        <temperature>
+            <level val="2m">279.7</level>
+            <level val="sol">280.2</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103770</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">77.7</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">6.9</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">13.2</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">266</level>
+        </vent_direction>
+        <iso_zero>2146</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">1</level>
+            <level val="moyenne">1</level>
+            <level val="basse">9</level>
+            <level val="totale">9</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="114" timestamp="2018-01-28 19:00:00 UTC">
+        <temperature>
+            <level val="2m">276.2</level>
+            <level val="sol">277.8</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103840</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">91</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">4.7</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">5.9</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">267</level>
+        </vent_direction>
+        <iso_zero>2267</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">43</level>
+            <level val="moyenne">9</level>
+            <level val="basse">19</level>
+            <level val="totale">48</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="117" timestamp="2018-01-28 22:00:00 UTC">
+        <temperature>
+            <level val="2m">277.1</level>
+            <level val="sol">277.8</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103890</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">95.3</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">2.9</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">3.4</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">247</level>
+        </vent_direction>
+        <iso_zero>2313</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">94</level>
+            <level val="totale">94</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="120" timestamp="2018-01-29 01:00:00 UTC">
+        <temperature>
+            <level val="2m">277.4</level>
+            <level val="sol">278.1</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103860</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">96.5</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">2.9</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">3.7</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">257</level>
+        </vent_direction>
+        <iso_zero>2321</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">97</level>
+            <level val="totale">97</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="123" timestamp="2018-01-29 04:00:00 UTC">
+        <temperature>
+            <level val="2m">277.4</level>
+            <level val="sol">278.1</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103790</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">97.5</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">3.1</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">4</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">277</level>
+        </vent_direction>
+        <iso_zero>2371</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">99</level>
+            <level val="totale">99</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="126" timestamp="2018-01-29 07:00:00 UTC">
+        <temperature>
+            <level val="2m">277.8</level>
+            <level val="sol">278.5</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103770</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">97</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">2.6</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">3.3</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">248</level>
+        </vent_direction>
+        <iso_zero>2449</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">96</level>
+            <level val="totale">96</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="129" timestamp="2018-01-29 10:00:00 UTC">
+        <temperature>
+            <level val="2m">278.9</level>
+            <level val="sol">279.2</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103800</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">93.9</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">3.8</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">4.4</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">223</level>
+        </vent_direction>
+        <iso_zero>2582</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">97</level>
+            <level val="totale">97</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="132" timestamp="2018-01-29 13:00:00 UTC">
+        <temperature>
+            <level val="2m">280.7</level>
+            <level val="sol">280.7</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103680</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">88.1</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">5.2</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">8</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">254</level>
+        </vent_direction>
+        <iso_zero>2619</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">96</level>
+            <level val="totale">96</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="135" timestamp="2018-01-29 16:00:00 UTC">
+        <temperature>
+            <level val="2m">280.2</level>
+            <level val="sol">280.8</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103500</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">93.4</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">3.3</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">4.4</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">279</level>
+        </vent_direction>
+        <iso_zero>2635</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">99</level>
+            <level val="totale">99</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="138" timestamp="2018-01-29 19:00:00 UTC">
+        <temperature>
+            <level val="2m">279.5</level>
+            <level val="sol">280.4</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103440</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">95.1</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">1.7</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">2.3</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">259</level>
+        </vent_direction>
+        <iso_zero>2570</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">98</level>
+            <level val="totale">98</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="141" timestamp="2018-01-29 22:00:00 UTC">
+        <temperature>
+            <level val="2m">278.9</level>
+            <level val="sol">280</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103360</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">95</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">4.2</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">5.1</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">209</level>
+        </vent_direction>
+        <iso_zero>2539</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">18</level>
+            <level val="moyenne">0</level>
+            <level val="basse">88</level>
+            <level val="totale">91</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="144" timestamp="2018-01-30 01:00:00 UTC">
+        <temperature>
+            <level val="2m">278.9</level>
+            <level val="sol">279.8</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">103180</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">94.4</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">4.5</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">5.5</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">228</level>
+        </vent_direction>
+        <iso_zero>1368</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">33</level>
+            <level val="moyenne">0</level>
+            <level val="basse">89</level>
+            <level val="totale">95</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="147" timestamp="2018-01-30 04:00:00 UTC">
+        <temperature>
+            <level val="2m">278.8</level>
+            <level val="sol">279.8</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102950</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">92.5</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">6.9</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">10.9</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">224</level>
+        </vent_direction>
+        <iso_zero>1327</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">98</level>
+            <level val="totale">98</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="150" timestamp="2018-01-30 07:00:00 UTC">
+        <temperature>
+            <level val="2m">278.8</level>
+            <level val="sol">279.6</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102800</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">91.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">10.6</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">21.7</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">215</level>
+        </vent_direction>
+        <iso_zero>1273</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">98</level>
+            <level val="totale">98</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="153" timestamp="2018-01-30 10:00:00 UTC">
+        <temperature>
+            <level val="2m">278.9</level>
+            <level val="sol">279.8</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102680</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0.1</pluie_convective>
+        <humidite>
+            <level val="2m">91.6</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">18.8</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">33</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">211</level>
+        </vent_direction>
+        <iso_zero>1221</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">100</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="156" timestamp="2018-01-30 13:00:00 UTC">
+        <temperature>
+            <level val="2m">279.5</level>
+            <level val="sol">280.2</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102400</level>
+        </pression>
+        <pluie interval="3h">0.1</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">87.7</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">25.5</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">41.2</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">216</level>
+        </vent_direction>
+        <iso_zero>1401</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">27</level>
+            <level val="moyenne">0</level>
+            <level val="basse">100</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="159" timestamp="2018-01-30 16:00:00 UTC">
+        <temperature>
+            <level val="2m">279.3</level>
+            <level val="sol">280.2</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102330</level>
+        </pression>
+        <pluie interval="3h">2.6</pluie>
+        <pluie_convective interval="3h">0.1</pluie_convective>
+        <humidite>
+            <level val="2m">91.5</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">27.3</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">47.6</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">265</level>
+        </vent_direction>
+        <iso_zero>1233</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">46</level>
+            <level val="moyenne">33</level>
+            <level val="basse">89</level>
+            <level val="totale">91</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="162" timestamp="2018-01-30 19:00:00 UTC">
+        <temperature>
+            <level val="2m">276.2</level>
+            <level val="sol">277.4</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102600</level>
+        </pression>
+        <pluie interval="3h">0.6</pluie>
+        <pluie_convective interval="3h">0.1</pluie_convective>
+        <humidite>
+            <level val="2m">87.8</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">18.2</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">43.4</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">304</level>
+        </vent_direction>
+        <iso_zero>833</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">30</level>
+            <level val="moyenne">50</level>
+            <level val="basse">69</level>
+            <level val="totale">80</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="165" timestamp="2018-01-30 22:00:00 UTC">
+        <temperature>
+            <level val="2m">274.8</level>
+            <level val="sol">275.9</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102900</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">91.7</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">14.2</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">33.2</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">299</level>
+        </vent_direction>
+        <iso_zero>729</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">1</level>
+            <level val="totale">1</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="168" timestamp="2018-01-31 01:00:00 UTC">
+        <temperature>
+            <level val="2m">273.3</level>
+            <level val="sol">274.5</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102910</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">95.6</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">9.4</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">16.8</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">263</level>
+        </vent_direction>
+        <iso_zero>537</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">0</level>
+            <level val="basse">1</level>
+            <level val="totale">1</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="171" timestamp="2018-01-31 04:00:00 UTC">
+        <temperature>
+            <level val="2m">272.9</level>
+            <level val="sol">274.1</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102670</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">95.2</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">12.5</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">24.3</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">230</level>
+        </vent_direction>
+        <iso_zero>288</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">2</level>
+            <level val="moyenne">0</level>
+            <level val="basse">1</level>
+            <level val="totale">3</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="174" timestamp="2018-01-31 07:00:00 UTC">
+        <temperature>
+            <level val="2m">274.3</level>
+            <level val="sol">275.3</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">102370</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">87.3</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">21.9</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">42.2</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">225</level>
+        </vent_direction>
+        <iso_zero>491</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">25</level>
+            <level val="moyenne">34</level>
+            <level val="basse">5</level>
+            <level val="totale">38</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="177" timestamp="2018-01-31 10:00:00 UTC">
+        <temperature>
+            <level val="2m">275.8</level>
+            <level val="sol">276.9</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101910</level>
+        </pression>
+        <pluie interval="3h">0.4</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">83.2</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">33.7</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">52.9</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">226</level>
+        </vent_direction>
+        <iso_zero>617</iso_zero>
+        <risque_neige>oui</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">100</level>
+            <level val="basse">99</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="180" timestamp="2018-01-31 13:00:00 UTC">
+        <temperature>
+            <level val="2m">275.7</level>
+            <level val="sol">277.4</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101360</level>
+        </pression>
+        <pluie interval="3h">2.6</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">86.2</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">40.2</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">65.3</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">224</level>
+        </vent_direction>
+        <iso_zero>649</iso_zero>
+        <risque_neige>oui</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">94</level>
+            <level val="basse">99</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="183" timestamp="2018-01-31 16:00:00 UTC">
+        <temperature>
+            <level val="2m">276.1</level>
+            <level val="sol">278.1</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101010</level>
+        </pression>
+        <pluie interval="3h">4.9</pluie>
+        <pluie_convective interval="3h">0.1</pluie_convective>
+        <humidite>
+            <level val="2m">98</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">28.3</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">56.6</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">259</level>
+        </vent_direction>
+        <iso_zero>880</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">1</level>
+            <level val="moyenne">88</level>
+            <level val="basse">100</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="186" timestamp="2018-01-31 19:00:00 UTC">
+        <temperature>
+            <level val="2m">275.3</level>
+            <level val="sol">277.5</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">100980</level>
+        </pression>
+        <pluie interval="3h">0.3</pluie>
+        <pluie_convective interval="3h">0.3</pluie_convective>
+        <humidite>
+            <level val="2m">90.6</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">21.2</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">53.1</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">270</level>
+        </vent_direction>
+        <iso_zero>875</iso_zero>
+        <risque_neige>non</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">0</level>
+            <level val="moyenne">67</level>
+            <level val="basse">71</level>
+            <level val="totale">88</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="189" timestamp="2018-01-31 22:00:00 UTC">
+        <temperature>
+            <level val="2m">274.7</level>
+            <level val="sol">276.6</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101170</level>
+        </pression>
+        <pluie interval="3h">0.8</pluie>
+        <pluie_convective interval="3h">0.3</pluie_convective>
+        <humidite>
+            <level val="2m">88.7</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">22.8</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">50.5</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">311</level>
+        </vent_direction>
+        <iso_zero>649</iso_zero>
+        <risque_neige>oui</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">1</level>
+            <level val="moyenne">100</level>
+            <level val="basse">100</level>
+            <level val="totale">100</level>
+        </nebulosite>
+    </echeance>
+    <echeance hour="192" timestamp="2018-02-01 01:00:00 UTC">
+        <temperature>
+            <level val="2m">273.4</level>
+            <level val="sol">275</level>
+            <level val="850hPa">-0.1</level>
+            <level val="500hPa">-0.1</level>
+        </temperature>
+        <pression>
+            <level val="niveau_de_la_mer">101360</level>
+        </pression>
+        <pluie interval="3h">0</pluie>
+        <pluie_convective interval="3h">0</pluie_convective>
+        <humidite>
+            <level val="2m">88.7</level>
+        </humidite>
+        <vent_moyen>
+            <level val="10m">26.2</level>
+        </vent_moyen>
+        <vent_rafales>
+            <level val="10m">54</level>
+        </vent_rafales>
+        <vent_direction>
+            <level val="10m">304</level>
+        </vent_direction>
+        <iso_zero>398</iso_zero>
+        <risque_neige>oui</risque_neige>
+        <cape>0</cape>
+        <nebulosite>
+            <level val="haute">1</level>
+            <level val="moyenne">85</level>
+            <level val="basse">97</level>
+            <level val="totale">97</level>
+        </nebulosite>
+    </echeance>
+</previsions>

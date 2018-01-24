@@ -8,7 +8,7 @@
 <!ELEMENT model_run (#PCDATA)>
 
 <!ELEMENT echeance (temperature, pression, pluie, pluie_convective, humidite, vent_moyen, 
-					vent_rafales, vent_direction, iso_zero, riques_neige, cape, nebulosite)>
+					vent_rafales, vent_direction, iso_zero, risque_neige, cape, nebulosite)>
 <!ATTLIST echeance
     hour        CDATA #REQUIRED
     timestamp   CDATA #REQUIRED
@@ -36,5 +36,5 @@
 >
 
 <!ELEMENT iso_zero (#PCDATA)>
-<!ELEMENT riques_neige (#PCDATA)>
+<!ELEMENT risque_neige (#PCDATA)>
 <!ELEMENT cape (#PCDATA)>
