@@ -12,6 +12,19 @@ $meteo = file_get_contents('http://www.infoclimat.fr/public-api/gfs/xml?_ll=48.6
 echo '<pre>';
 print_r(simplexml_load_string($meteo));
 echo '</pre>';
+
+# START XSLT 
+$xslt = new XSLTProcessor(); 
+
+# IMPORT STYLESHEET 1 
+$XSL = new DOMDocument(); 
+$XSL->load( '../xml/meteo.xsl' ); 
+$xslt->importStylesheet( $XSL ); 
+
+
+#PRINT 
+print $xslt->transformToXML( $meteo ); 
+
 ?>
 
 <h1>Météo</h1>
