@@ -1,3 +1,7 @@
 # APIxml
 
-Geoffrey Baier / Wilmouth Steven / Dubois Morgan
+## Contributeurs
+
+- BAIER Geoffrey
+- DUBOIS Morgan
+- WILMOUTH Steven
