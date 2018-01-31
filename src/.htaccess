@@ -1,2 +1,6 @@
 RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
 RewriteRule ^([a-z]+)$ index.php?p=$1
